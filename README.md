@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/gorkamu/gorkamu/blob/main/assets/logo-pixel-red.png"> 
+    <img width="40%" src="https://github.com/gorkamu/gorkamu/blob/main/assets/logo-pixel-grey.png"> 
 </p>
 
 
