@@ -78,7 +78,6 @@ I like play CTF games.
 - Bashed
 - Beep
 - Cronos
-- Doctor
 - See more
 
 <br>
