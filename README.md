@@ -15,9 +15,10 @@
   <img align="left" alt="Gorkamu's HTB"  width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb.png" />
 </a>
 <br/>
+<br/>
 
 
-#### I'm **Gorka Muñoz**, a passionate developer from **Spain** 🇪🇸
+#### I'm Gorka Muñoz, a passionate developer from Spain 🇪🇸
 
 I grew up making my own Flash games 🪦 and creating websites in the Dreamviewer era 🌐, always inspired by the **hacker movies** of the 90s.<br/>
 Today I am mainly dedicated to developing web applications but I really love anything that has technology 💻.<br/>
