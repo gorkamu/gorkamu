@@ -7,6 +7,15 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedareehaquasar)
 
 
+<a href="https://www.linkedin.com/in/gorka-mu%C3%B1oz-andres/">
+  <img align="left" alt="Gorkamu's Linkedin" width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/linkedin-logo.png"/>
+</a>
+<a href="https://app.hackthebox.eu/profile/356953">
+  <img align="left" alt="Gorkamu's HTB"  width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb.png" />
+</a>
+<br/>
+
+
 I'm **Gorka Muñoz**, a passionate developer from **Spain** 🇪🇸
 
 I grew up making my own Flash games 🪦 and creating websites in the Dreamviewer era 🌐, always inspired by the **hacker movies** of the 90s.<br/>
