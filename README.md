@@ -2,18 +2,16 @@
     <img width="40%" src="https://github.com/gorkamu/gorkamu/blob/main/assets/logo.png"> 
 </p>
 
-<h2><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> Hi there!</h2>
-
+## Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+<br/>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedareehaquasar)
-
-<p>
-    <a href="https://www.linkedin.com/in/gorka-mu%C3%B1oz-andres/">
-      <img align="left" alt="Gorkamu's Linkedin" width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/linkedin-logo.png"/>
-    </a>
-    <a href="https://app.hackthebox.eu/profile/356953">
-      <img align="left" alt="Gorkamu's HTB"  width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb.png" />
-    </a>
-</p>
+<br/>
+<a href="https://www.linkedin.com/in/gorka-mu%C3%B1oz-andres/">
+  <img align="left" alt="Gorkamu's Linkedin" width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/linkedin-logo.png"/>
+</a>
+<a href="https://app.hackthebox.eu/profile/356953">
+  <img align="left" alt="Gorkamu's HTB"  width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb.png" />
+</a>
 <br/>
 
 
