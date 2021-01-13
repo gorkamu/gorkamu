@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gorka</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<p align="center" width="100%">
+    <img width="50%" src="https://i.imgur.com/X4e5GFt.png"> 
+</p>
+
+
+
+
+
 
 - 🌱 I’m currently learning **OSCP**
 
