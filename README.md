@@ -31,11 +31,11 @@ I like play CTF games.
 
 ### Know more about me:
 
-- 🔭    I’m currently exploring OSCP 🚀.
-- 💬    Ask me about anything, I would be glad to help (if I could ✨).
-- 📫    How to reach me: Linkedin (preferable)
-- ⬆️    I like to create Adsense niches and rank them
-- 🎵    Ask me and I recommend you some cool music
+- 🔭 I’m currently exploring OSCP 🚀.
+- 💬 Ask me about anything, I would be glad to help (if I could ✨).
+- 📫 How to reach me: Linkedin (preferable)
+- ⬆️ I like to create Adsense niches and rank them
+- 🎵 Ask me and I recommend you some cool music
 
 <br><br><br><br>
 
