@@ -70,7 +70,7 @@ I like play CTF games.
 
 
 <br>
-<img align="left" width="150px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb-box-1.png" />
+<img align="left" width="150px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb-box-2.png" />
 
 ### My latest HTB Write Ups:
 
