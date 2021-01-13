@@ -69,7 +69,7 @@ I like play CTF games.
 ![REACT](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-<br><br>
+<br>
 <img align="left" height="150px" width="150px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb-green-logo.png" />
 
 ### My latest HTB Write Ups:
@@ -81,7 +81,7 @@ I like play CTF games.
 - Doctor
 - See more
 
-<br><br><br><br>
+<br><br>
 
 
 
