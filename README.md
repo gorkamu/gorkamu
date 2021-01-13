@@ -91,3 +91,8 @@ I like play CTF games.
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gorkamu&show_icons=true&locale=en"/>
     </a>
 </p>
+
+
+<p align="center" width="100%">
+    <img src="https://github.com/gorkamu/gorkamu/blob/main/assets/footer2.jpg"> 
+</p>
