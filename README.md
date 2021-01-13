@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="40%" src="https://i.imgur.com/X4e5GFt.png"> 
+    <img width="40%" src="https://github.com/gorkamu/gorkamu/blob/main/assets/logo.png"> 
 </p>
 
 <h2><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> Hi there!</h2>
@@ -17,7 +17,7 @@ I like play CTF games.
 
 
 <br>
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://github.com/gorkamu/gorkamu/blob/main/assets/terminal.png" />
 
 ### Know more about me:
 
