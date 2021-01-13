@@ -15,7 +15,6 @@
   <img align="left" alt="Gorkamu's HTB"  width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb.png" />
 </a>
 <br/>
-<br/>
 
 
 #### I'm Gorka Muñoz, a passionate developer from Spain 🇪🇸
