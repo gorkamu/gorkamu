@@ -16,7 +16,7 @@ My wet dream is the console and terminal applications. You will always see me wi
 I like play CTF games.
 
 
-<br>
+<br><br>
 <img align="right" height="250" width="375" alt="GIF" src="https://github.com/gorkamu/gorkamu/blob/main/assets/terminal.png" />
 
 ### Know more about me:
@@ -27,7 +27,7 @@ I like play CTF games.
 - ⬆️ I like to create Adsense niches and rank them
 - 🎵 Ask me and I recommend you some cool music
 
-<br><br>
+<br><br><br>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -56,7 +56,7 @@ I like play CTF games.
 ![REACT](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-<br>
+<br><br>
 
 
 
