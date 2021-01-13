@@ -81,11 +81,7 @@ I like play CTF games.
 - Doctor
 - See more
 
-<br><br>
-
-
-
-
+<br>
 
 
 <p align="center">
