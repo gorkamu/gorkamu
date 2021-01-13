@@ -2,9 +2,11 @@
     <img width="40%" src="https://github.com/gorkamu/gorkamu/blob/main/assets/logo.png"> 
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<br/>
+
+## Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedareehaquasar)
+
 <br/>
 <a href="https://www.linkedin.com/in/gorka-mu%C3%B1oz-andres/">
   <img align="left" alt="Gorkamu's Linkedin" width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/linkedin-logo.png"/>
