@@ -14,6 +14,9 @@
 <a href="https://app.hackthebox.eu/profile/356953">
   <img align="left" alt="Gorkamu's HTB"  width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/htb.png" />
 </a>
+<a href="https://stadia.com/profile/11313327035906326905">
+  <img align="left" alt="Gorkamu's Stadia"  width="32px" src="https://github.com/gorkamu/gorkamu/blob/main/assets/stadia.png" />
+</a>
 <br/>
 
 
@@ -31,8 +34,8 @@ I like play CTF games.
 
 ### Know more about me:
 
-- 🔭 I’m currently exploring OSCP 🚀.
-- 💬 Ask me about anything, I would be glad to help (if I could ✨).
+- 🔭 I’m currently exploring OSCP 🚀
+- 💬 Ask me about anything, I would be glad to help (if I could ✨)
 - 📫 How to reach me: Linkedin (preferable)
 - ⬆️ I like to create Adsense niches and rank them
 - 🎵 Ask me and I recommend you some cool music
