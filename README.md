@@ -34,16 +34,29 @@ I like play CTF games.
 
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![SCRIPTING](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white")
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-
-
+![EXPRESS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![VUE](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![REACT](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![REDUX](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![JQUERY](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
+![HEROKU](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
+![FIREBASE](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
+![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
+![NGINX](https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![MONGO](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![DOCKER](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 <p align="center">
     <a href="https://github.com/AVS1508">
